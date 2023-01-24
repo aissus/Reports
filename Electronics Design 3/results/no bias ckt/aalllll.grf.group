@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--StateFileType saveLoadState-->
+<topLevel>
+    <SimpleProp Name="stateFileVersion" Value="@(#)$CDS: virtuoso version 6.1.7-64b 04/17/2018 20:01 (sjfhw312) $" Type="string" />
+    <SimpleProp Name="currentHistory" Value="/homedir01/aazzaz22/simulation/my_OTA/OTA1_tests/adexl/results/data/Interactive.267" Type="stringValue" />
+    <SimpleProp Name="currentContext" Value="__historyDirStr__/psf/my_OTA:OTA1_linear_range_out_test:1/psf" Type="stringValue" />
+    <IndexedProp Name="resultsDirMappingList">
+        <SimpleProp Name="__resDirStr_0" Value="/homedir01/aazzaz22/simulation/my_OTA/OTA1_tests/adexl/results/data/Interactive.267/psf/my_OTA:OTA1_ac_test:1/psf" Type="stringValue" />
+        <SimpleProp Name="__resDirStr_1" Value="/homedir01/aazzaz22/simulation/my_OTA/OTA1_tests/adexl/results/data/Interactive.267/psf/my_OTA:OTA1_cm_in_test:1/psf" Type="stringValue" />
+        <SimpleProp Name="__resDirStr_2" Value="/homedir01/aazzaz22/simulation/my_OTA/OTA1_tests/adexl/results/data/Interactive.267/psf/my_OTA:OTA1_step_response_test:1/psf" Type="stringValue" />
+        <SimpleProp Name="__resDirStr_3" Value="/homedir01/aazzaz22/simulation/my_OTA/OTA1_tests/adexl/results/data/Interactive.267/psf/my_OTA:OTA1_linear_range_out_test:1/psf" Type="stringValue" />
+    </IndexedProp>
+    <IndexedProp Name="dependentExprsList">
+        <SimpleProp Name="dB20(VF(" Value='))&quot; &quot;dB20(VF(&quot;/out&quot;))' Type="stringValue" />
+    </IndexedProp>
+    <IndexedProp Name="graphFileList">
+        <SimpleProp Value="aalllll_0.grf" Type="stringValue" />
+        <SimpleProp Value="aalllll_1.grf" Type="stringValue" />
+        <SimpleProp Value="aalllll_2.grf" Type="stringValue" />
+        <SimpleProp Value="aalllll_3.grf" Type="stringValue" />
+    </IndexedProp>
+</topLevel>
