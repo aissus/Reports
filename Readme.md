@@ -22,14 +22,13 @@ It includes:
 
 ## Statistical Signal Processing 1
 
-A study of the different estimators in the homework using Matlab codes. 
-
-The final project was about estimation techniques.
+A study of the different estimators in the homework using Matlab codes.
+The final project was about Matched filters and detection theory.
 
 
 ## Electronics Design 2
 
-A design of a Miller and a Lead compensated OPAMP using Cadence Virtuoso.
+A design of a Miller and a Lead compensated OPAMP using Cadence Virtuoso  and the generic 45nm PDK.
 
 
 ## Simulation and Tools for Telecommunications
@@ -44,4 +43,4 @@ Design of an RF LNA to operate at the band of 2.0 GHz - 2.1GHz using Keysight AD
 
 ## Electronics Design 3
 
-Design and layout of a current mirror OTA (operational transconductance amplifier) using Cadence Virtuoso with the generic 45nm process.
+Design and layout of a current mirror OTA (operational transconductance amplifier) using Cadence Virtuoso and the generic 45nm PDK.
