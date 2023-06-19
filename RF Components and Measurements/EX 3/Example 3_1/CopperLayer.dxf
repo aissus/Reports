@@ -1,0 +1,458 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1009
+  9
+$INSUNITS
+  70
+9
+  9
+$EXTMIN
+  10
+-494.9
+  20
+-130
+  9
+$EXTMAX
+  10
+-115
+  20
+241.8
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+LTYPE
+  70
+1
+  0
+LTYPE
+  2
+CONTINUOUS
+  70
+64
+  3
+Solid line
+  72
+65
+  73
+0
+  40
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+  70
+1
+  0
+LAYER
+  2
+Copper
+  70
+0
+  62
+136
+  6
+CONTINUOUS
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+POLYLINE
+  8
+Copper
+  70
+1
+  66
+1
+  0
+VERTEX
+  8
+Copper
+  10
+-215
+  20
+20
+  0
+VERTEX
+  8
+Copper
+  10
+-115
+  20
+20
+  0
+VERTEX
+  8
+Copper
+  10
+-115
+  20
+30
+  0
+VERTEX
+  8
+Copper
+  10
+-215
+  20
+30
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Copper
+  70
+1
+  66
+1
+  0
+VERTEX
+  8
+Copper
+  10
+-235
+  20
+20
+  0
+VERTEX
+  8
+Copper
+  10
+-235
+  20
+30
+  0
+VERTEX
+  8
+Copper
+  10
+-215
+  20
+30
+  0
+VERTEX
+  8
+Copper
+  10
+-215
+  20
+20
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Copper
+  70
+1
+  66
+1
+  0
+VERTEX
+  8
+Copper
+  10
+-454.9
+  20
+231.8
+  0
+VERTEX
+  8
+Copper
+  10
+-350.3
+  20
+231.8
+  0
+VERTEX
+  8
+Copper
+  10
+-350.3
+  20
+73.87
+  0
+VERTEX
+  8
+Copper
+  10
+-343.23
+  20
+66.8
+  0
+VERTEX
+  8
+Copper
+  10
+-279.8
+  20
+66.8
+  0
+VERTEX
+  8
+Copper
+  10
+-279.8
+  20
+27.07
+  0
+VERTEX
+  8
+Copper
+  10
+-272.73
+  20
+20
+  0
+VERTEX
+  8
+Copper
+  10
+-235
+  20
+20
+  0
+VERTEX
+  8
+Copper
+  10
+-235
+  20
+30
+  0
+VERTEX
+  8
+Copper
+  10
+-269.8
+  20
+30
+  0
+VERTEX
+  8
+Copper
+  10
+-269.8
+  20
+69.73
+  0
+VERTEX
+  8
+Copper
+  10
+-276.87
+  20
+76.8
+  0
+VERTEX
+  8
+Copper
+  10
+-340.3
+  20
+76.8
+  0
+VERTEX
+  8
+Copper
+  10
+-340.3
+  20
+234.73
+  0
+VERTEX
+  8
+Copper
+  10
+-347.37
+  20
+241.8
+  0
+VERTEX
+  8
+Copper
+  10
+-454.9
+  20
+241.8
+  0
+VERTEX
+  8
+Copper
+  10
+-454.9
+  20
+231.8
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Copper
+  70
+1
+  66
+1
+  0
+VERTEX
+  8
+Copper
+  10
+-235
+  20
+20
+  0
+VERTEX
+  8
+Copper
+  10
+-235
+  20
+-130
+  0
+VERTEX
+  8
+Copper
+  10
+-215
+  20
+-130
+  0
+VERTEX
+  8
+Copper
+  10
+-215
+  20
+20
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Copper
+  70
+1
+  66
+1
+  0
+VERTEX
+  8
+Copper
+  10
+-464.9
+  20
+241.8
+  0
+VERTEX
+  8
+Copper
+  10
+-464.9
+  20
+231.8
+  0
+VERTEX
+  8
+Copper
+  10
+-454.9
+  20
+231.8
+  0
+VERTEX
+  8
+Copper
+  10
+-454.9
+  20
+241.8
+  0
+VERTEX
+  8
+Copper
+  10
+-464.9
+  20
+241.8
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Copper
+  70
+1
+  66
+1
+  0
+VERTEX
+  8
+Copper
+  10
+-494.9
+  20
+241.8
+  0
+VERTEX
+  8
+Copper
+  10
+-494.9
+  20
+231.8
+  0
+VERTEX
+  8
+Copper
+  10
+-484.9
+  20
+231.8
+  0
+VERTEX
+  8
+Copper
+  10
+-484.9
+  20
+241.8
+  0
+VERTEX
+  8
+Copper
+  10
+-494.9
+  20
+241.8
+  0
+SEQEND
+  0
+ENDSEC
+  0
+EOF

@@ -44,3 +44,20 @@ Design of an RF LNA to operate at the band of 2.0 GHz - 2.1GHz using Keysight AD
 ## Electronics Design 3
 
 Design and layout of a current mirror OTA (operational transconductance amplifier) using Cadence Virtuoso and the generic 45nm PDK.
+
+
+## Radio Engineering 2
+
+Design of a QPSK TX and RX with center frequecny of 10 GHz.
+
+## Microelectronics Packaging Technologies
+
+A packaging study and anlysis of some samples taken from diffrent consumer electronics.
+
+## RF Components and Measurements
+
+Some exercises about RF components and AWRDE, along with a laboratory measurements exercise.
+
+## Telecommunication Circuit Design
+
+Differnent exercises about IC processes, transistors, LNA and mixer performance.
